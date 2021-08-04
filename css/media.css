@@ -1,0 +1,271 @@
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* header start */
+  .menu ul li a {
+    font-size: 20px;
+    text-align: right;
+    padding: 10px 0 0 !important;
+  }
+  .cid {
+    margin-bottom: -55px;
+  }
+  .cid [data-bs-target] {
+    width: 13px;
+    height: 13px;
+  }
+  /* header end */
+  /* slider start */
+  .slider {
+    padding-bottom: 70px;
+  }
+  .s_text {
+    margin-top: 20px;
+  }
+  .slider_icons ul li {
+    margin-right: 20px !important;
+  }
+  .slider_icons ul li i {
+    font-size: 35px;
+  }
+  .s_text h1 {
+    font-size: 25px;
+  }
+  /* slider end */
+  /* feature start */
+  .feature {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+  .f_single {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .c_h1 {
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  .c_text {
+    margin-bottom: 0;
+    font-size: 17px;
+  }
+  .f_text h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .f_icon i {
+    font-size: 45px;
+  }
+  /* feature end */
+
+  /*contact start*/
+
+  .contact {
+    padding-top: 50px;
+    padding-bottom: 70px;
+   }
+
+   .mtb_custom {
+     margin-top: 35px;
+     margin-bottom: 35px;
+   }
+
+   .c_email {
+      height: 45px;
+      padding: 5px 10px;
+   }
+
+   .btn_submit {
+      height: 45px;
+      padding: 5px 10px;
+      font-size: 18px;
+   }
+
+   .c_social ul li {
+      margin-right: 20px !important;
+   }
+
+   .c_social ul li a i {
+      font-size: 40px;
+   }
+
+   /*contanct end*/
+
+   /*footer start*/
+
+   footer {
+      padding-bottom: 35px;
+   }
+
+   .f_1 {
+      margin-bottom: 35px;
+      text-align: center;
+   }
+
+   .f_2 {
+      margin-bottom: 35px;      
+      text-align: center;
+   }
+
+   /*footer end*/
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header start */
+  .menu ul li a {
+    font-size: 20px;
+    text-align: right;
+    padding: 10px 0 0 !important;
+  }
+  .cid {
+    margin-bottom: -55px;
+  }
+  .cid [data-bs-target] {
+    width: 13px;
+    height: 13px;
+  }
+  /* header end */
+  /* slider start */
+  .slider {
+    padding-bottom: 70px;
+  }
+  .s_text {
+    margin-top: 20px;
+  }
+  .slider_icons ul li {
+    margin-right: 20px !important;
+  }
+  .slider_icons ul li i {
+    font-size: 40px;
+  }
+  /* slider end */
+  /* feature start */
+  .feature {
+    padding-top: 50px;
+    padding-bottom: 70px;
+  }
+  .f_single {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .c_h1 {
+    margin-bottom: 10px;
+    font-size: 30px;
+  }
+  .c_text {
+    margin-bottom: 0;
+  }
+  .f_text h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  /* feature end */
+
+  /*contact start*/
+
+  .contact {
+    padding-top: 50px;
+    padding-bottom: 70px;
+   }
+
+   .mtb_custom {
+     margin-top: 40px;
+     margin-bottom: 40px;
+   }
+
+   .c_email {
+      height: 45px;
+      padding: 5px 10px;
+   }
+
+   .btn_submit {
+      height: 45px;
+   }
+
+   .c_social ul li {
+      margin-right: 20px !important;
+   }
+
+   .c_social ul li a i {
+      font-size: 40px;
+   }
+
+   /*contanct end*/
+
+   /*footer start*/
+
+   footer {
+      padding-bottom: 70px;
+   }
+
+   .f_1 {
+      margin-bottom: 35px;
+      text-align: center;
+   }
+
+   .f_2 {
+      text-align: center;
+   }
+
+   /*footer end*/
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header start */
+  .menu ul li a {
+    text-align: right;
+    padding: 10px 0 0 !important;
+  }
+  /* header end */
+  /* slider start */
+  .s_text {
+    margin-top: 50px;
+  }
+  /* slider end */
+  /* feature start */
+  .feature {
+    padding-top: 80px;
+    padding-bottom: 100px;
+  }
+  .f_single {
+    margin-top: 40px;
+  }
+  /* feature end */
+
+
+
+   /*contact start*/
+
+   .contact {
+      padding-top: 80px;
+      padding-bottom: 100px;
+   }
+
+   .mtb_custom {
+      margin-top: 50px;
+      margin-bottom: 50px;
+   }
+   /*contact end*/
+
+   /*footer start*/
+
+   footer {
+      padding-bottom: 100px;
+   }
+
+   /*footer end*/
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+/* X-Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+
+/* XX-large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
